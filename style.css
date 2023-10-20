@@ -1,0 +1,26 @@
+body{
+    background-image: url("FundoSite3.avif");
+    background-size: cover;
+    background-color: black;
+
+    cursor: url("Sword\ Normal\ Select.cur"), auto;
+}
+div.principal{
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+div.botoes{
+    text-align: center; 
+}
+button.superior{
+    cursor: url("Sword\ Normal\ Select.cur"), auto;
+    font-size: 16px;
+    text-align: center;  
+    display: inline-block;
+    background-color: white;
+    border: 2px solid red;
+    color: black;
+    border-radius: 8px;
+    padding: 10px 50px; 
+}
